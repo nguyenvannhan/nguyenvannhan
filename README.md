@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [nvnhan0810.com](nvnhan0810.com)
 
-- 📝 I regularly write articles on [blog.nvnhan0810.com](blog.nvnhan0810.com)
+- 📝 I regularly write articles on [notes.nvnhan0810.com](notes.nvnhan0810.com)
 
 - 💬 Ask me about **PHP, Laravel, VueJs, ReactJS**
 
